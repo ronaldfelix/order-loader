@@ -1,0 +1,4 @@
+org\dinet\pedido\domain\model\ClienteIdTest.class
+org\dinet\pedido\domain\model\EstadoPedidoTest.class
+org\dinet\pedido\domain\service\ValidadorPedidoServiceTest.class
+org\dinet\pedido\domain\model\NumeroPedidoTest.class
